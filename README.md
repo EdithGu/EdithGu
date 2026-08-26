@@ -1,4 +1,4 @@
-### Hi, I'm Edith 👋
+### Hi, I'm Edith Gu 👋
 
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=20&duration=3000&pause=1200&color=1E7F72&center=false&vCenter=true&width=600&lines=AI%2FML+Engineer;Building+RAG+%2B+Agentic+LLM+Systems;Fine-Tuning+Whisper+with+LoRA;MS+Data+Science+%40+UCSD" alt="Typing SVG" />
