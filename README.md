@@ -65,3 +65,11 @@ AI/ML Engineer & MS Data Science student building **RAG pipelines, agentic LLM s
 <img src="https://img.shields.io/badge/OAuth%202.0-333333?style=flat-square" alt="OAuth 2.0"/>
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus"/>
 <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana"/>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EdithGu/EdithGu/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EdithGu/EdithGu/output/github-contribution-grid-snake.svg" />
+  <img alt="a snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/EdithGu/EdithGu/output/github-contribution-grid-snake.svg" />
+</picture>
